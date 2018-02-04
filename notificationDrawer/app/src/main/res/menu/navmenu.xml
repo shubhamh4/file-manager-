@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/internal"
+        android:icon="@mipmap/ic_memory_black_24dp"
+        android:title="Device storage">
+    </item>
+
+    <item android:id="@+id/sd"
+        android:icon="@mipmap/ic_sd_storage_black_24dp"
+        android:title="Sd card">
+    </item>
+    <item android:id="@+id/cloud"
+        android:icon="@mipmap/ic_backup_black_24dp"
+        android:title="Cloud">
+    </item>
+
+    <item android:id="@+id/setting"
+        android:icon="@mipmap/ic_settings_black_24dp"
+        android:title="Settings">
+    </item>
+
+</menu>
